@@ -59,7 +59,7 @@ public class M05UF2Practica1Git {
                 comprobar = true;
                 switch (operacion) {
                     case "+":
-                        res = n2 + n2;
+                        res = n1 + n2;
                         break;
                     case "-":
                         res = n1 - n2;
